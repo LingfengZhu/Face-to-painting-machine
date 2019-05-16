@@ -17,9 +17,9 @@ Prof. Raschka's instruction, UW-Madison
 STAT 479, UW-Madison
 
 ## E-mail
-Lingfeng Zhu:
-lzhu88@wisc.edu
-Zhuoyan Xu:
-zxu444@wisc.edu
-Cecily Liu:
+Lingfeng Zhu:  
+lzhu88@wisc.edu  
+Zhuoyan Xu:  
+zxu444@wisc.edu  
+Cecily Liu:  
 qliu273@wisc.edu
