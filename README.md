@@ -13,7 +13,7 @@ Part of codes we use in the neural style transfer section can be seen in the scr
 > $ Style.ipynb
 
 ## Acknowledgement
-Prof. Raschka's instruction, UW-Madison
+Prof. Raschka's instruction, UW-Madison  
 STAT 479, UW-Madison
 
 ## E-mail
