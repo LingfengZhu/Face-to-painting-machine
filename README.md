@@ -5,13 +5,21 @@ This project is to identify human face and produce portrait paintings based on t
 The Labeled Faces in the Wild (LFW) dataset we use in face recognition part can be downloaded from: http://vis-www.cs.umass.edu/lfw/
 
 ## Face recognition
-Part of codes we use in the face recognition part (ResNet 34 for example) can be seen in the script:
+Part of codes we use in the face recognition section (ResNet 34 for example) can be seen in the script:
 > $ train_res34.ipynb
 
 ## Neural Style Transfer
-Part of codes we use in the neural style transfer part can be seen in the script:
+Part of codes we use in the neural style transfer section can be seen in the script:
 > $ Style.ipynb
 
+## Acknowledgement
+Prof. Raschka's instruction, UW-Madison
+STAT 479, UW-Madison
+
 ## E-mail
-My email:
+Lingfeng Zhu:
 lzhu88@wisc.edu
+Zhuoyan Xu:
+zxu444@wisc.edu
+Cecily Liu:
+qliu273@wisc.edu
